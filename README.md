@@ -7,7 +7,7 @@ Designed and implemented a simple android app using Java.
 
 App Walk-though
 Please copy the link below to take a look at my app.
-<img src="https://imgur.com/PRz38Kv.gif" width=200><br>
+<img src="https://imgur.com/PRz38Kv.gif" width=200>
 
 
 What the App does:
